@@ -28,8 +28,11 @@ public class Main {
 //        ArmstrongNumber an = new ArmstrongNumber();
 //        an.Armstrong();
 
-        BubbleSortProgram bs = new BubbleSortProgram();
-        bs.BubbleSort();
+//        BubbleSortProgram bs = new BubbleSortProgram();
+//        bs.BubbleSort();
+
+        SelectionSortProgram ss = new SelectionSortProgram();
+        ss.SelectionSort();
     }
 }
 
