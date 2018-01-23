@@ -30,9 +30,10 @@ public class SelectionSortProgram {
                     index = j;
                 }
             }
-            int SmallNumber = a[index];
-            a[index] = a[i];
-            a[i] = SmallNumber;
+                int SmallNumber = a[index];
+                a[index] = a[i];
+                a[i] = SmallNumber;
+
         }
         System.out.println("After applying Selection Sort Technique:");
         for (i=0; i<n; i++){

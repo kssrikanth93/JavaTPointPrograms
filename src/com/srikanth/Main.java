@@ -31,8 +31,11 @@ public class Main {
 //        BubbleSortProgram bs = new BubbleSortProgram();
 //        bs.BubbleSort();
 
-        SelectionSortProgram ss = new SelectionSortProgram();
-        ss.SelectionSort();
+//        SelectionSortProgram ss = new SelectionSortProgram();
+//        ss.SelectionSort();
+
+        InsertionSortProgram is = new InsertionSortProgram();
+        is.InsertionSort();
     }
 }
 
